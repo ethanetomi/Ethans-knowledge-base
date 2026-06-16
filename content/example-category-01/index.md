@@ -1,11 +1,11 @@
 ---
-title: Category 01
+title: First Content and Commit
 ---
 ## The Category 01 category index page
 
 ### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+This is an intro to the assignment about knowledge bases
 
 On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
 
