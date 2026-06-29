@@ -1,1 +1,6 @@
 I am a U.S. Army National Guard Soldier currently training as a 17E Electronic Warfare Specialist while pursuing a Bachelor of Science in Computing Applications at Texas Tech University. I am passionate about technology, cybersecurity, and solving complex technical problems, and I hope to build a career at the intersection of defense and advanced technology. In my free time, I enjoy fitness, outdoor activities, and setting ambitious goals that help me grow both personally and professionally.
+
+
+
+
+[[index]]
