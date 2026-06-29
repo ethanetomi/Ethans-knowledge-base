@@ -7,3 +7,14 @@ tags:
 ---
 # Electromagnetic Spectrum
 Here we will discuss the electromagnetic spectrum as a whole in what it is made up of and the similarities and differences in usage in everyday civilian life versus military tactical scenarios
+
+
+
+
+
+
+
+
+
+
+[[Electronic Attack]]
