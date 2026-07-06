@@ -21,7 +21,7 @@ On the offensive side, EA can be broken down into the following three versions:
 	* Is carried by a risky low flight mission in enemy territory to utilize short range but extremely powerful radio frequencies to directly jamming and completely take down enemy systems.
 
 ### Image of EA
-shows the effects and different targets of EA, and also include the versatility.
+shows the effects and different targets of EA, and also include the versatility of it.
 ![[Pasted image 20260705220919.png]]
 
 
