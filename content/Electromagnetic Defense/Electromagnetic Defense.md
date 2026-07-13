@@ -10,12 +10,12 @@ tags:
 Here we will discuss the importance of "hardening" systems and how to configure them to be impervious to attacks
 
 
+![[DFing.png]]
 
 
 
 
-
-
+![[ED.png]]
 
 
 

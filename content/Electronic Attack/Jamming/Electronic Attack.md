@@ -22,7 +22,7 @@ On the offensive side, EA can be broken down into the following three versions:
 
 ### Image of EA
 shows the effects and different targets of EA, and also include the versatility of it.
-![[Pasted image 20260705220919.png]]
+![[Electronic attacl.png]]
 
 
 
