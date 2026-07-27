@@ -1,7 +1,7 @@
 ---
 published: 2026-07-26T22:40:00
 created: 2026-07-24
-title: Electromagnetic Defense index
+title: Electromagnetic Defense
 ---
 # Electromagnetic Defense Index
 

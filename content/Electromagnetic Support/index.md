@@ -1,7 +1,7 @@
 ---
 published: 2026-07-26T22:53:00
 created: 2026-07-25
-title: index for Electromagnetic Support
+title: " Electromagnetic Support"
 ---
 # Electromagnetic Support Index
 

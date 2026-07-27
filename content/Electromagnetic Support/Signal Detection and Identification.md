@@ -45,4 +45,4 @@ Related Topics
 [[Electromagnetic Spectrum]]
 
 [[Electromagnetic Support/index|index]]
-[[Home Index]]
+[[index|Home]]

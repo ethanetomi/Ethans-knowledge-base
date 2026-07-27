@@ -55,3 +55,35 @@ Explore educational pathways, civilian careers, defense contractors, certificati
 # About This Knowledge Base
 
 This project was developed using Obsidian Markdown and published through GitHub Pages as part of Texas Tech University's CMPS 3302 course on Knowledge Organization and Information Architecture. Every section is interconnected through internal links, allowing readers to navigate between related Electronic Warfare concepts while exploring the subject in greater depth.
+
+# Resources
+
+The information contained throughout this Electronic Warfare Knowledge Base was compiled from military publications, academic journals, industry experts, and technical references. These sources provide foundational information on electronic warfare doctrine, communications jamming, electromagnetic spectrum operations, electronic protection, and career development. Each topic page references the appropriate source(s) where applicable.
+
+## References
+
+- Annulli, M. (n.d.). _Electronic attack aka electromagnetic attack_. EMSOpedia. [https://www.emsopedia.org/entries/electronic-attack-aka-electromagnetic-attack/](https://www.emsopedia.org/entries/electronic-attack-aka-electromagnetic-attack/)
+    
+- Dolan, P. T. (2025, July 8). _Like moths to a false flame: Lethality and protection through deception operations_. U.S. Army. [https://www.army.mil/article/286861/like_moths_to_a_false_flame_lethality_and_protection_through_deception_operations](https://www.army.mil/article/286861/like_moths_to_a_false_flame_lethality_and_protection_through_deception_operations)
+    
+- Lichtman, M., Poston, J. D., Amuru, S., Shahriar, C., Clancy, T. C., Buehrer, R. M., & Reed, J. H. (2016). _A communications jamming taxonomy_. _IEEE Security & Privacy, 14_(1), 47–54. [https://doi.org/10.1109/MSP.2016.13](https://doi.org/10.1109/MSP.2016.13)
+    
+- Penten AMIO. (n.d.). _Electronic deception_. [https://pentenamio.com/electronic-deception/](https://pentenamio.com/electronic-deception/)
+    
+- Sentrycs. (n.d.). _Directed energy weapons (DEW)_. [https://sentrycs.com/glossary/directed-energy-weapons-dew](https://sentrycs.com/glossary/directed-energy-weapons-dew)
+    
+- Stealth Veil. (n.d.). _Radar jammers_. [https://www.stealthveil.com/guides/radar-jammers/](https://www.stealthveil.com/guides/radar-jammers/)
+    
+- Trimble. (2025, September 9). _Understanding GPS jamming vs. spoofing_. [https://oemgnss.trimble.com/blog/oemgnss/en-US/article/understanding-gps-jamming-versus-gps-spoofing](https://oemgnss.trimble.com/blog/oemgnss/en-US/article/understanding-gps-jamming-versus-gps-spoofing)
+    
+
+---
+
+## Related Pages
+
+- [[Electronic Warfare Fundamentals]]
+- [[Career and Training]]
+- [[Electromagnetic Spectrum]]
+- [[Electromagnetic Support]]
+- [[Electronic Attack]]
+- [[Electromagnetic Defense]]

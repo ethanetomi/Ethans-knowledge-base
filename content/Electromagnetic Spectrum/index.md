@@ -1,7 +1,7 @@
 ---
 published: 2026-07-26T22:45:00
 created: 2026-07-22
-title: Index for Electromagnetic Spectrum
+title: Electromagnetic Spectrum
 ---
 # Electromagnetic Spectrum Index
 
@@ -29,4 +29,4 @@ References:
 
 • Annulli, M. (n.d.). *Electronic attack aka electromagnetic attack.* EMSOPEDIA. https://www.emsopedia.org/entries/electronic-attack-aka-electromagnetic-attack/
 
-[[Home Index]]
+[[index]]
