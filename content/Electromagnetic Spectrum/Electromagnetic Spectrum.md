@@ -31,4 +31,4 @@ Related Topics
 [[Electronic Attack]]
 
 [[Electromagnetic Spectrum/index|index]]
-[[Home Index]]
+[[index|Home]]

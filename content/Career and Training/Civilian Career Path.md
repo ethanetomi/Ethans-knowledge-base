@@ -28,4 +28,4 @@ Related Topics
 
 [[Electronic Warfare Fundamentals]]
 [[Career and Training/index.Career and Training/index|index]]
-[[Home Index]]
+[[index]]

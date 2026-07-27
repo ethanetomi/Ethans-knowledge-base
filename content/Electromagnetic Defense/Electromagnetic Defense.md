@@ -80,4 +80,4 @@ Together these three functions allow commanders to understand, protect, and domi
 [[Electromagnetic Spectrum]]
 
 [[Electromagnetic Defense/index]]
-[[Home Index]]
+[[index|Home]]

@@ -36,4 +36,4 @@ Electronic Protection works alongside [[Electronic Attack]] and [[Electromagneti
 [[Electronic Warfare Fundamentals]]
 
 [[Electromagnetic Defense/index]]
-[[Home Index]]
+[[index|Home]]

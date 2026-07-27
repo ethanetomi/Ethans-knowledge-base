@@ -16,4 +16,4 @@ We will now discuss the longevity of a seemingly brand new field. The general ca
 
 [[Electromagnetic Defense]]
 [[Career and Training/index.Career and Training/index|index]]
-[[Home Index]]
+[[index]]

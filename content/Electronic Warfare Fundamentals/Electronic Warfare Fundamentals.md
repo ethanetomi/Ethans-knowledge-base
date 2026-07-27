@@ -34,4 +34,4 @@ Related Topics
 [[Electromagnetic Spectrum]]
 
 [[Electronic Warfare Fundamentals/index|index]]
-[[Home Index]]
+[[index|Home]]

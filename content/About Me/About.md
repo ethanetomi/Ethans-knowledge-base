@@ -3,4 +3,4 @@ I am a U.S. Army National Guard Soldier currently training as a 17E Electronic W
 
 
 
-[[Home Index]]
+[[index]]
